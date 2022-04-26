@@ -1,17 +1,18 @@
 "Long-term impacts of COVID-19 on urban income segregation", Presentation, Taka, Bernardo, Xiaowen Dong (Oxford), Sandy, Esteban
 "Effects of mobility-based dependency relationships on economic resilience", Presentation, Taka, Bernardo, Sandy, Esteban
 "Neighborhood Resilience and Fragility to the COVID-19 Pandemic from a Mobility Network Perspective: The Case of New York City", Presentation, Mohsen, Hasan Alp Boz, Aaron Nichols, Nina Mazar, Selim Balcisoy, Burcin Bozkaya, Sandy
-"Large-scale population mobility data provides meaningful indicators of fast food intake and predicts diet-related diseases across diverse populations", Presentation, Abigail Horn, Brooke Bell, Bernardo, Mohsen, Burcin Bozkaya, Yan Cui, John P. Wilson, Sandy, Kayla de la Haye, Esteban
+"Large-scale population mobility data provides meaningful indicators of fast food intake and predicts diet-related diseases across diverse populations", Presentation, Abigail Horn, Brooke Bell, Bernardo, Mohsen, Burcin Bozkaya, Yan Cui, John P. Wilson, Sandy, Kayla, Esteban
 "Voyage Viewer: Empowering human mobility at a global scale", Presentation, Isabella, Tobin, German Andres Sanchez Sarmiento, Alice Yu, Mohsen, Sandy
-"You are where you eat: the effect of mobile food environments on fast food visits", Poster, Bernardo, Abigail Horn, Brooke M. Bell, Mohsen, Burcin Bozkaya, Sandy, Kayla De la Haye, Esteban
+"You are where you eat: the effect of mobile food environments on fast food visits", Poster, Bernardo, Abigail Horn, Brooke M. Bell, Mohsen, Burcin Bozkaya, Sandy, Kayla, Esteban
 "Assessing diversity of business categories in commercial districts and its association with merchants’ revenue using neural embedding", Poster, Jisung Yoon, Mohsen, Burcin Bozkaya, Selim Balcisoy, Woo-Sung Jung, Sandy, Yong-Yeol Ahn
 "Investigating the Causal Impact of Education Levels on Compliance with Mandates", Poster, Morteza Maleki, Mohsen, Monica Menendez, Jose Balsa-Barreiro
 "A Second Front of the Ukraine Invasion: Russian State-Linked Media Narratives", Poster, Keeley, Tobin, Hope Schroeder, Shayne Longpre
 "Social Influence Leads to the Formation of Diverse Local Trends", Poster, Ziv, Matt Groh, Abhimanyu Dubey, Sandy
 "Yourfeed: measuring attention in an experimental social media environment", Presentation, Ziv, Hause Lin, Antonio Arechar, Gordon Pennycook, David Rand
 "Quantifying the Dynamics of NFTs with a Decentralized Autonomous Artist”, Presentation, Simon Hudon, Ziv, Mario Klingemann, Agustín Jamardo Chenlo, Sandy
-"Deceptive AI systems that give explanations are just as convincing as honest AI systems in human-machine decision making", Poster, Valdemar Danry, Pat Pataranutaporn, Ziv, Matthew Groh, Pattie Maes
+"Deceptive AI systems that give explanations are just as convincing as honest AI systems in human-machine decision making", Poster, Valdemar Danry, Pat Pataranutaporn, Ziv, Matt Groh, Pattie Maes
 "Does federated learning solve the privacy problem in computational social science?", Poster, Tobin, Robert, Isabella, Dan
 "Inside the black box of the classroom", Poster, Bernardo, Tobin, Salome Aguilar
-"Network constraints on worker mobility: How workplace skills determine a worker’s next move", Presentation, Morgan Frank, Esteban, Tobin, Alex Rutherford, Sandy, Iyad Rahwan	 
+"Network constraints on worker mobility: How workplace skills determine a worker’s next move", NA, Morgan Frank, Esteban, Tobin, Alex Rutherford, Sandy, Iyad Rahwan	 
 "Beyond Residence Political Segregation in the Activity Space", Poster, Bernardo, Tara, Sandy, Esteban
+"Universal citation dynamics in science & law", NA, Robert, Sadamori Kojaku, Sandro Lera, Esteban, Sandy, Yong-Yeol Ahn
